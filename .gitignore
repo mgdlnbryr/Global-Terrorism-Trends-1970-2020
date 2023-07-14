@@ -1,0 +1,6 @@
+.DS_Store
+data/.DS_Store
+mid_project_env/
+requirements.in
+notebooks/.ipynb_checkpoints/data_cleaning-checkpoint.ipynb
+notebooks/.ipynb_checkpoints/data_exploration-checkpoint.ipynb
