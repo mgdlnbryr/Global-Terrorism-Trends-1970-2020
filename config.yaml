@@ -1,0 +1,4 @@
+data:
+  
+  raw_data: "../data/raw/data.xlsx"
+  cleaned_data: "../data/cleaned/cleaned_data.csv"
